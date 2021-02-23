@@ -14,3 +14,5 @@ https://brentsa.github.io/run-buddy/index.html
 Made with ❤️ by Sean Brent
 
 ###  ©️2019 Run Buddy, Inc
+
+Thanks!
